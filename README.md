@@ -1,5 +1,2 @@
 # mysql-missing-ids
-Get the deleted rows of a table in mysql
-
-
-Get the deleted rows of a table in mysql
+Get a list of missing ids of a table in mysql
